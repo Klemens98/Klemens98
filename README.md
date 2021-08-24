@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Klemens98
-- 👀 I’m interested in ...
+- 👀 I’m interested in Front-End, best practices, Back-End.
 - 🌱 I’m currently learning Javascrip, HTML, CSS, SQL, React, and Node.js 
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: klemensdrobnicki@gmail.com
 
 <!---
