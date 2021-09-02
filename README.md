@@ -1,7 +1,17 @@
-- 👋 Hi, I’m @Klemens98
-- 👀 I’m interested in Front-End, best practices, Back-End.
-- 🌱 I’m currently learning Javascrip, HTML, CSS, SQL, React, and Node.js 
-- 📫 How to reach me: klemensdrobnicki@gmail.com
+# 👋 Hi, I’m @Klemens98
+
+- 👀 I’m interested in becoming a Full-Stack Developer. Therefore, also everything related to it, from Frontend to Backend. 
+
+- 🌱 I’m currently learning React. 
+
+
+## Contact
+46485 Wesel
+Germany
+
+You can reach me, preferably under my E-mail:
+klemensdrobnicki@gmail.com
+
 
 My most recent work is always pinned.
 
