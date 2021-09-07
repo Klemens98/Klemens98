@@ -1,6 +1,6 @@
 # 👋 Hi, I’m @Klemens98
 
-- 👀 I’m interested in becoming a Full-Stack Developer. Therefore, also everything related to it, from Frontend to Backend. 
+- 👀 I’m on my way to becoming a Full-Stack Developer. Therefore, i am interested in everything related to it, from Frontend to Backend. 
 
 - 🌱 I’m currently learning React. 
 
